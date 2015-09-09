@@ -22,9 +22,7 @@ while on release logs the critical stuff you have to your google docs
 
 you can ignore all other logs and show only the class you are debugging with just one line of code
 
-its pretty
-
-easy to install ~2 minutes
+its pretty easy to install ~2 minutes
 
 you can easily tell the difference between system logs and your logs
 
